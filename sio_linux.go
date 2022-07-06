@@ -1,5 +1,3 @@
-// +build linux
-
 /*
 
 1) Original: Copyright (c) 2005-2008 Dustin Sallings <dustin@spy.net>.
